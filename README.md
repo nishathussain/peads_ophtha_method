@@ -1,6 +1,6 @@
 ## Visual and surgical outcome of manual capsulorhexis versus 25 gauge vitrectorhexis in pediatric cataract surgery with IOL implantation.
-
-This method compares two method of creating ACCC, PCCC and their compares how which is having better centration w.r.t that of IOL.
+<br></br>
+While performing cataract surgeries on children both PCCC and ACCC are created (No ACCC for adult). This method compares two method of creating ACCC, PCCC and compares which method is  having better centration w.r.t that of IOL.
 
 ![PCCC, ACCC and OIL center](images/comparison.png)
 
