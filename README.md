@@ -7,6 +7,6 @@ This method compares two method of creating ACCC, PCCC and their compares how wh
 
 
 
-IOL: Intraocular Lens
-ACCC: Anterior continuous curvilinear capsulorhexis
-PCCC: Posterior continuous curvilinear capsulorhexis
+<br>IOL: Intraocular Lens</br>
+<br>ACCC: Anterior continuous curvilinear capsulorhexis</br>
+<br>PCCC: Posterior continuous curvilinear capsulorhexis</br>
